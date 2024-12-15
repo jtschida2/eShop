@@ -806,5 +806,29 @@
     "Name": "Trek Xtreme Hiking Shoes",
     "Description": "The Trek Xtreme hiking shoes by Raptor Elite are built to endure any trail. With their durable leather upper and rugged rubber sole, they offer excellent traction and protection. These shoes come in a timeless brown color that adds a touch of style to your outdoor adventures.",
     "Price": 135.99
+  },
+    {
+    "Id": 102,
+    "Type": "Footwear",
+    "Brand": "Chacos",
+    "Name": "Strapped Sandals",
+    "Description": "These easy to put on sandals make your life much simple for going outside in any season where putting on shoes just is too much work",
+    "Price": 79.99
+  },
+    {
+    "Id": 103,
+    "Type": "Footwear",
+    "Brand": "Tivas",
+    "Name": "Less chill sandals",
+    "Description": "These bump up for sandals are great for going off road",
+    "Price": 90.99
+  }    
+  {
+    "Id": 104,
+    "Type": "Footwear",
+    "Brand": "Timberland Boots",
+    "Name": "Steel toe work boots",
+    "Description": "These hefty boots are perfect for being on the job, and keeping your feet safe and comfortable",
+    "Price": 120.99
   }
 ]
